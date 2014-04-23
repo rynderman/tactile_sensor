@@ -1,0 +1,8 @@
+prefix=/home/rynderman/ros_ws/install
+
+Name: tactile_sensor
+Description: Description of tactile_sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rynderman/ros_ws/install/lib 
+Requires: 

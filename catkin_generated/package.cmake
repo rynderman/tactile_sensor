@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tactile_sensor")
+set(tactile_sensor_MAINTAINER "rynderman <rynderman@todo.todo>")
+set(tactile_sensor_DEPRECATED "")
+set(tactile_sensor_VERSION "0.0.0")
+set(tactile_sensor_BUILD_DEPENDS "cv_bridge" "image_transport" "moveit_ros_planning_interface" "roscpp" "sensor_msgs" "std_msgs" "tf" "tf_visualizations" "rospy")
+set(tactile_sensor_RUN_DEPENDS "cv_bridge" "image_transport" "moveit_ros_planning_interface" "roscpp" "sensor_msgs" "std_msgs" "tf" "tf_visualizations" "rospy")
+set(tactile_sensor_BUILDTOOL_DEPENDS "catkin")

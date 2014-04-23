@@ -1,0 +1,6 @@
+set(tactile_sensor_SETUP_PY_VERSION "0.0.0")
+set(tactile_sensor_SETUP_PY_SCRIPTS "")
+set(tactile_sensor_SETUP_PY_PACKAGES "tactil_sensor")
+set(tactile_sensor_SETUP_PY_PACKAGE_DIRS "scripts/tactil_sensor")
+set(tactile_sensor_SETUP_PY_MODULES "")
+set(tactile_sensor_SETUP_PY_MODULE_DIRS "")

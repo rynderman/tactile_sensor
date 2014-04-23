@@ -1,0 +1,8 @@
+<launch>
+	<node name="move_group" pkg="moveit_ros_move_group" type="move_group" respawn="false" output="screen" launch-prefix="xterm -e">
+		<remap from="/joint_states" to="/robot/joint_states" />
+	</node>
+	<node name="insertion" pkg="tactile_sensor" type="insertion" output="screen">
+		<remap from="/joint_states" to="/robot/joint_states" />		
+	</node>
+</launch>
